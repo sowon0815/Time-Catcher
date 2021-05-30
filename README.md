@@ -1,2 +1,3 @@
 # Time-Catcher
-web front-end using proto.io
+2021-1 HCI final team project
+web front-end option 1 using proto.io
